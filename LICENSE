@@ -1,0 +1,36 @@
+Blue Public is proprietary software. All rights reserved.
+
+This is **not** an open-source project. It is **not** licensed under MIT,
+Apache 2.0, GPL, or any other OSI-approved licence.
+
+Use of the Blue Public client binary is governed solely by the End-User
+Licence Agreement in EULA.md and the Privacy Policy in PRIVACY.md, which
+you must accept on first launch.
+
+In particular — and without limiting what those documents say — you may
+not, except as expressly permitted by the EULA:
+
+  - copy, redistribute, mirror, repackage, or publish the Software, in
+    whole or in part, in original or modified form;
+  - reverse-engineer, decompile, disassemble, or attempt to derive the
+    source code of the Software;
+  - bypass, disable, or tamper with the licence-check, integrity-check,
+    or any other protection mechanism in the Software;
+  - share or transfer your licence token, beta access, or Discord beta
+    role to another person;
+  - use the Software in violation of any law that applies to you, the
+    rules of any Minecraft server you connect to, or Mojang's end-user
+    licence agreement for Minecraft.
+
+Source code for the Blue Public client is **not** included in this
+distribution and is not made available under any open-source licence.
+
+Documents in this repository (EULA.md, PRIVACY.md, README.md, this LICENSE)
+are published so that prospective and existing users can read the terms
+that apply to them. Their publication does **not** convey any licence to
+the Software itself.
+
+Contact: see the project's Discord server, or open a GitHub Issue at
+https://github.com/lilify-jp/BluePublic.
+
+Copyright (c) 2026 lilify-jp. All rights reserved.
